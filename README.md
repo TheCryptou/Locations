@@ -1,4 +1,4 @@
-[![Discord](https://img.shields.io/discord/1410292112951607350?color=5865F2&label=Discord&logo=discord&logoColor=white&style=for-the-badge)]([https://discord.gg/tonlien](https://discord.gg/6s7bNF7FVB))
+[![Discord](https://img.shields.io/discord/1410292112951607350?color=5865F2&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/6s7bNF7FVB)
 
 # 📍 Location
 
